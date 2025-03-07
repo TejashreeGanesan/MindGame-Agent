@@ -24,8 +24,8 @@ Ensure you have Python **3.8.5+** installed.
 Clone the repository and install dependencies:  
 
 ```bash
-git clone https://github.com/CR-Gjx/Suspicion-Agent.git
-cd Suspicion-Agent
+git clone  https://github.com/TejashreeGanesan/MindGame-Agent.git
+cd MindGame-Agent
 pip install -r requirements.txt
 ```
 
