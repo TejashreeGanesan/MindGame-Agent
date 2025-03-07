@@ -39,10 +39,8 @@ You'll need an **OpenAI API key** to run the model. Set it up by following the i
 You can train and evaluate the agent using:  
 
 ```bash
-python main_vs_baseline.py --user --verbose_print --rule_model [cfr/nfsp/dqn/dmc]
+python main_vs_baseline.py --user --verbose_print --rule_model [cfr and dmc]
 ```
-
-🔹 Replace `[cfr/nfsp/dqn/dmc]` with your preferred strategy model.  
 
 ---
 
